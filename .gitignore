@@ -1,0 +1,15 @@
+# Python ignores
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Aspen Plus ignores 
+*.bkp
+*.apwz
+*.appdf
+*.def
+*.his
+*.msg
+*.res
+*.tre
